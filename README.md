@@ -36,7 +36,7 @@ Clone este repositório.
 Para a compilação da questão entre no diretório da questão utilize o comando 'make' no terminal do Linux.
 
 # Executar os programas
-O programa da Questão 01 - ./bin/palindromo
-O programa da Questão 02 - ./bin/polonesa
-
+### O programa da Questão 01 - ./bin/palindromo
+### O programa da Questão 02 - ./bin/polonesa
+### O programa da Questão 03 - ./bin/circular
 
